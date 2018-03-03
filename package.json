@@ -1,0 +1,28 @@
+{
+  "name": "news",
+  "version": "1.0.0",
+  "description": "You can use this application to get the latest news",
+  "main": "app.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsan26/News-PWA.git"
+  },
+  "keywords": [
+    "js",
+    "pwa",
+    "news",
+    "app"
+  ],
+  "author": "Ahsan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahsan26/News-PWA/issues"
+  },
+  "homepage": "https://github.com/ahsan26/News-PWA#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
